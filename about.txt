@@ -1,0 +1,5 @@
+Theme name:		ori 0.1
+Description:	A minimalist theme for blogging. - Based on "Clean Blog" by Startbootstrap
+Author name:	ori
+Author site:	https://erolkaftanoglu.com
+License:		  https://erolkaftanoglu.com
